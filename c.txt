@@ -24,3 +24,6 @@ c1
 	第5次修改c.txt
 	未pull，提交有可能不正常
 
+6.本地仓库6
+	第6次修改c.txt 未pull ，maybe error
+
