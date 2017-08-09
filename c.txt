@@ -27,3 +27,5 @@ c1
 6.本地仓库6
 	第6次修改c.txt 未pull ，maybe error
 
+7.本地仓库7
+	第7次编辑c.txt ，没有pull
