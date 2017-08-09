@@ -7,8 +7,10 @@ ccc
 1.远程编辑b.txt
 2.yuanchengbianji2
 3.远程b.t
-
+4.yaccccccccccccccccccccccccccsssssssssssssssssssssssssssss
+ewoijdslkcxfdc
 
 a.本地编辑b.txt
 b.本地编辑b.txt2
 c.bendib
+d.此处是远程编辑
